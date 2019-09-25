@@ -1,0 +1,5 @@
+br\com\skyview\solicitacao\controller\SolicitacaoController.class
+br\com\skyview\solicitacao\to\DroneRequest.class
+br\com\skyview\solicitacao\component\SolicitacaoComponent.class
+br\com\skyview\Application.class
+br\com\skyview\config\SwaggerConfig.class
